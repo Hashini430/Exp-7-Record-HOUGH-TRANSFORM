@@ -171,6 +171,7 @@ plt.show()
 
 # Expected Output
 
+
 ## Original image
   <img width="693" height="460" alt="image" src="https://github.com/user-attachments/assets/77550067-7d60-4198-aa6e-9dc85fcd484a" />
 ## Grayscale image
@@ -181,7 +182,7 @@ plt.show()
   <img width="692" height="472" alt="image" src="https://github.com/user-attachments/assets/fe2158f3-41eb-4da9-aa80-00d31c70408f" />
 
 
----
+
 
 # Result
 
