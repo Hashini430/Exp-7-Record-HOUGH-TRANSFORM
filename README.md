@@ -171,16 +171,13 @@ plt.show()
 
 # Expected Output
 
-- Original image
+## Original image
   <img width="693" height="460" alt="image" src="https://github.com/user-attachments/assets/77550067-7d60-4198-aa6e-9dc85fcd484a" />
-
-- Grayscale image
+## Grayscale image
   <img width="700" height="468" alt="image" src="https://github.com/user-attachments/assets/18b2d180-25ca-4497-8a3d-c8d92dd678c9" />
-  
-- Edge detected image
+## Edge detected image
   <img width="712" height="473" alt="image" src="https://github.com/user-attachments/assets/9f419281-2416-43d5-9ad7-6317108084aa" />
-
-- Final lane detection output
+## Final lane detection output
   <img width="692" height="472" alt="image" src="https://github.com/user-attachments/assets/fe2158f3-41eb-4da9-aa80-00d31c70408f" />
 
 
